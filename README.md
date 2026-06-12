@@ -2,3 +2,7 @@
 "## API Endpoints" 
 "- GET /health" 
 "- POST /students" 
+"## Setup Instructions" 
+"1. Clone the repository" 
+"2. Run: docker-compose up --build" 
+"3. Access: http://localhost:8000" 
