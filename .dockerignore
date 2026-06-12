@@ -17,4 +17,4 @@ test.db
 *.log
 .pytest_cache
 .coverage
-htmlcov
+htmlcov"# Docker ignore file" 
