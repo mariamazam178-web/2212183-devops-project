@@ -5,4 +5,4 @@ def test_health_endpoint(client):
     assert data["status"] == "ok"
     # Check if registration number is present
     assert "student" in data
-    assert data["student"] != ""  # Should not be empty
+    assert data["student"] != ""  # Should not be empty"# Health check tests" 
