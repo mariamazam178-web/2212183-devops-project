@@ -64,4 +64,4 @@ def test_duplicate_registration(client):
     
     # Try to create same reg_no again
     response = client.post("/students", json=student_data)
-    assert response.status_code == 400
+    assert response.status_code == 400"# Student CRUD tests" 
